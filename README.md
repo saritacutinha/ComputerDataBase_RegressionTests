@@ -2,15 +2,14 @@
 
 ## Description
 
-Automating the functional test cases to be included in a regression test set.
+Automating the functional test cases to be included in a regression test set. Functional test cases : 
+
 
 ## Test Strategy :
-
 Testing Framework : Modular Framework Approach using POM
 Automated the Highest Priority Test Cases First.
 
 ## Test Environment : 
-
 Editor Used : Visual Studio 2019 Community Edition
 Packages used for Browser Automation : 
 1. Selenium.Support 3.141.0
@@ -31,7 +30,7 @@ Test Data and Configuration Management
 3. Run Tests
 4. Extent Report Will be available in the current working directory.
 
-## Structure :
+### 🏗 Structure:
 -->CommonLibs Class Library Project holds:
 1. Implementation Folder.
     1. Driver Set Up used in the Entire Solution
@@ -41,7 +40,11 @@ Test Data and Configuration Management
 -->PageObject Class Library Project holds all the modules of the Application.
 -->Regression Tests : Hold the Tests.
 
-
+### 🏆 Additional Improvements to be considered:
+1. Refactoring code for waits, test data organisation
+2. Adding additional browser support
+3. BDD Framework Integration.
+4. Parallel testing
 
 
 
