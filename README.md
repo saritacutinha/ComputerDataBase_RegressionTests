@@ -4,7 +4,7 @@
 
 Automating the functional test cases to be included in a regression test set. Functional test cases : https://github.com/saritacutinha/ComputerDataBase_RegressionTests/blob/master/FunctionalTestCases_ComputerDatabaseApplication.xlsx
 
-Time Taken : 8 hours
+Time Taken : 7 hours
 
 ## Test Strategy :
 Testing Framework : 
