@@ -2,6 +2,8 @@
 
 ## Description
 
+AUT : http://computer-database.gatling.io/computers
+
 Automating the functional test cases to be included in a regression test set. Functional test cases : https://github.com/saritacutinha/ComputerDataBase_RegressionTests/blob/master/FunctionalTestCases_ComputerDatabaseApplication.xlsx
 
 Time Taken : 7 hours
