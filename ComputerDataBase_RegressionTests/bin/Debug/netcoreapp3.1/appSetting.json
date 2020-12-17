@@ -1,0 +1,29 @@
+﻿{
+  "baseUrl": "http://computer-database.gatling.io/computers",
+  "browserType": "chrome",
+  "addComputerPageURL": "http://computer-database.gatling.io/computers/new",
+
+
+  "addComputerSucessful": {
+    "computerName": "Allien Ware Aurora",
+    "introduced": "1992-08-11",
+    "discontinued": "1995-07-01",
+    "company": "Apple Inc."
+  },
+
+  "editComputerPopulatedValues": {
+    "computerName": "ACE",
+    "introduced": "",
+    "discontinued": "",
+    "company": "-- Choose a company --"
+  },
+
+  "editComputerAddNewValues": {
+    "computerName": "ACE",
+    "introduced": "1992-08-11",
+    "discontinued": "1995-07-01",
+    "company": "Apple Inc."
+  }
+
+
+}
