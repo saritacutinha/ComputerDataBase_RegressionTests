@@ -6,8 +6,9 @@ Automating the functional test cases to be included in a regression test set. Fu
 
 
 ## Test Strategy :
-Testing Framework : Modular Framework Approach using POM
-Automated the Highest Priority Test Cases First.
+Testing Framework : 
+1. Modular Framework Approach using POM
+2. Automated the Highest Priority Test Cases First.
 
 ## Test Environment : 
 Editor Used : Visual Studio 2019 Community Edition
