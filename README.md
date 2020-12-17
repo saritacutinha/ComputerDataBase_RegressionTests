@@ -2,7 +2,7 @@
 
 ## Description
 
-Automating the functional test cases to be included in a regression test set. Functional test cases : 
+Automating the functional test cases to be included in a regression test set. Functional test cases : https://github.com/saritacutinha/ComputerDataBase_RegressionTests/blob/master/FunctionalTestCases_ComputerDatabaseApplication.xlsx
 
 
 ## Test Strategy :
@@ -38,6 +38,7 @@ Test Data and Configuration Management
 2. Utility Folder.
     1. Reporting Utility.
 -->PageObject Class Library Project holds all the modules of the Application.
+
 -->Regression Tests : Hold the Tests.
 
 ### 🏆 Additional Improvements to be considered:
