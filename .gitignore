@@ -1,2 +1,25 @@
 
 ComputerDataBase_RegressionTests/bin/Debug/netcoreapp3.1/index.html
+.vs/ComputerDataBase_RegressionTests/DesignTimeBuild/.dtbcache.v2
+.vs/ComputerDataBase_RegressionTests/v16/.suo
+.vs/ComputerDataBase_RegressionTests/v16/TestStore/0/000.testlog
+.vs/ComputerDataBase_RegressionTests/v16/TestStore/0/testlog.manifest
+ComputerDatabase_CommonLibs/obj/ComputerDatabase_CommonLibs.csproj.nuget.dgspec.json
+ComputerDatabase_CommonLibs/obj/ComputerDatabase_CommonLibs.csproj.nuget.g.props
+ComputerDatabase_CommonLibs/obj/ComputerDatabase_CommonLibs.csproj.nuget.g.targets
+ComputerDatabase_CommonLibs/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ComputerDatabase_CommonLibs/obj/Debug/netcoreapp3.1/ComputerDatabase_CommonLibs.AssemblyInfo.cs
+*.cache
+ComputerDatabase_CommonLibs/obj/project.assets.json
+ComputerDatabase_PageObjects/obj/ComputerDatabase_PageObjects.csproj.nuget.dgspec.json
+ComputerDatabase_PageObjects/obj/ComputerDatabase_PageObjects.csproj.nuget.g.props
+ComputerDatabase_PageObjects/obj/ComputerDatabase_PageObjects.csproj.nuget.g.targets
+ComputerDatabase_PageObjects/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ComputerDatabase_PageObjects/obj/Debug/netcoreapp3.1/ComputerDatabase_PageObjects.AssemblyInfo.cs
+ComputerDatabase_PageObjects/obj/project.assets.json
+ComputerDataBase_RegressionTests/obj/ComputerDataBase_RegressionTests.csproj.nuget.dgspec.json
+ComputerDataBase_RegressionTests/obj/ComputerDataBase_RegressionTests.csproj.nuget.g.props
+ComputerDataBase_RegressionTests/obj/ComputerDataBase_RegressionTests.csproj.nuget.g.targets
+ComputerDataBase_RegressionTests/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ComputerDataBase_RegressionTests/obj/Debug/netcoreapp3.1/ComputerDataBase_RegressionTests.AssemblyInfo.cs
+ComputerDataBase_RegressionTests/obj/project.assets.json
